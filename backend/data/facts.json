@@ -1,0 +1,21 @@
+{
+    "full_name": "Sahil Sethi",
+    "name": "Sahil",
+    "current_role": "Lead Software Engineer",
+    "location": "New York, NY",
+    "email": "sahil.sethi1986@gmail.com",
+    "linkedin": "linkedin.com/in/sahil-sethi-03360549",
+    "specialties": [
+      "Java",
+      "Python",
+      "AI"
+    ],
+    "years_experience": 17,
+    "education": [
+      {
+        "degree": "MBA in Finance",
+        "institution": "Rutgers, The State University of New Jersey",
+        "year": "2024"
+      }
+    ]
+  }

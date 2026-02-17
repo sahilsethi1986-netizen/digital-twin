@@ -1,0 +1,6 @@
+I am a Softwaare Engeering Manager with 17 years of experience in Finance. 
+My expertise includes Java,Python,Databricks and AI.
+
+Currently, I'm focused on AI engineering , Agentic AI and deploying AI applications at Scale
+
+My background includes developing and managing large scale projects 
